@@ -10,3 +10,4 @@ Connect arduino to PC and start testing.
 Available emulators:  
 Puloon LCDM 2000  
 Generic ccnet bill validator  
+GEneric cctalk bill validator
